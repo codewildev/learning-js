@@ -326,7 +326,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 # Nivel 2 — JavaScript Intermedio
 
-## 2.1 Asincronía
+## [2.1 Asincronía](./level_2/asincronia/asincronia.md)
 
 ### Callbacks
 
@@ -356,7 +356,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.2 Event Loop (MUY IMPORTANTE)
+## [2.2 Event Loop (MUY IMPORTANTE)](./level_2/event_loop/event-loop.md)
 
 - [ ]  Call Stack
 - [ ]  Web APIs
@@ -369,7 +369,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.3 Timers y Scheduler APIs
+## [2.3 Timers y Scheduler APIs](./level_2/timers_schedule/schedule-timer.md)
 
 - [ ]  `setTimeout`
 - [ ]  `setInterval`
@@ -378,7 +378,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.4 This y Contexto
+## [2.4 This y Contexto](./level_2/this_context/this context.md)
 
 ### `this`
 
@@ -395,7 +395,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.5 Manejo de Errores
+## [2.5 Manejo de Errores](./level_2/manejo_errores/erros.md)
 
 - [ ]  `try/catch`
 - [ ]  `finally`
@@ -410,7 +410,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.6 Expresiones Regulares
+## [2.6 Expresiones Regulares](./level_2/expresion_regulars/expresiones.md)
 
 - [ ]  Sintaxis básica
 - [ ]  Flags
@@ -421,7 +421,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.7 Estructuras Avanzadas
+## [2.7 Estructuras Avanzadas](./level_2/advance_structure/structure.md)
 
 ### Map
 
@@ -439,7 +439,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.8 Programación Orientada a Objetos
+## [2.8 Programación Orientada a Objetos](./level_2/poo/poo.md)
 
 ### Prototypes
 
@@ -464,7 +464,7 @@ Este roadmap se ha elaborado con base en la documentación de **MDN Web Docs** y
 
 ---
 
-## 2.9 Módulos
+## [2.9 Módulos](./level_2/moduls/moduls.md)
 
 ### CommonJS
 
