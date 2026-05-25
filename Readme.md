@@ -153,6 +153,6 @@ Construirás una **aplicación frontend moderna y completa** que reúne todo el 
 Antes de saltar a **React, Angular o Vue**, esta ruta te asegura dominar lo que de verdad importa: arrays, objetos, `async`/`await`, DOM, eventos, estado, módulos y renderizado dinámico. Los frameworks se aprenden mucho más rápido cuando estas bases están sólidas.
 
 ---
-### 🏁 Empieza por el [Módulo 1](https://claude.ai/chat/modulo-01.md) — JavaScript no se aprende leyendo, se aprende construyendo
+### 🏁 Empieza por el [Módulo 1](./modulo-01.md) — JavaScript no se aprende leyendo, se aprende construyendo
 
 _Crea, rompe cosas, corrige errores y construye proyectos reales._ 🌱
